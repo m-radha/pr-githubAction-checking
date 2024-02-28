@@ -16,5 +16,8 @@ pom.xml.asc
 #ignoring from my end for checking
 src\unwanted1
 src\unwanted2
+<<<<<<< HEAD
 
 .clj-kondo
+=======
+>>>>>>> 8b8d553 (delted unwanted files)
