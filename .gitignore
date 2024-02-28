@@ -17,7 +17,12 @@ pom.xml.asc
 src\unwanted1
 src\unwanted2
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 .clj-kondo
 =======
 >>>>>>> 8b8d553 (delted unwanted files)
+=======
+
+.clj-kondo
+>>>>>>> 07b0cd2 (.cljs-konde folder ingored)
