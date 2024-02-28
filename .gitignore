@@ -16,3 +16,5 @@ pom.xml.asc
 #ignoring from my end for checking
 src\unwanted1
 src\unwanted2
+
+.clj-kondo
